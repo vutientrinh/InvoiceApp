@@ -1,0 +1,20 @@
+# Build results
+bin/
+obj/
+*.exe
+*.dll
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.cache
+
+# Rider / VSCode / JetBrains
+.idea/
+.vscode/
+
+# Others
+*.log
+*.tmp
+*.db
